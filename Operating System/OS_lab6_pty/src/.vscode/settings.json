@@ -1,0 +1,11 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "scheduler.h": "c",
+        "queuefifo.h": "c",
+        "queuepri.h": "c",
+        "memtestcase.h": "c",
+        "userinterface.h": "c",
+        "tasktestcase.h": "c"
+    }
+}
